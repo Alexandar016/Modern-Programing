@@ -1,2 +1,2 @@
 # Modern-Programing
-This is my personal solution code for the programming exercises in Modern Programming of my muster studies. It mostly contains C++ programs.
+These are my personal solutions for the programming exercises in Modern Programming of my master studies. It mostly contains C++ programs.
