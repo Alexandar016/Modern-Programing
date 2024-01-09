@@ -40,6 +40,7 @@ int main()
         if (number == 20) counter[20] += 1;
     }
 
+    
     // find the appropriate length of the horizontal bar
     max = *max_element(counter, counter + 20);
     for (int i{ 0 }; i < 21; i++)
