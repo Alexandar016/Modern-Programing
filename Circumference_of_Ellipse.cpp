@@ -6,7 +6,6 @@
 #include <cmath>
 #include <iomanip>
 
-
 using namespace std;
 
 double length(double x1, double x2, double y1, double y2)
