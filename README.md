@@ -34,7 +34,9 @@ To run any of these programs, ensure you have a C++ compiler installed on your s
 
 ```bash
 g++ filename.cpp -o output
-./output```
+./output
+```
+
 Make sure to replace filename.cpp with the desired script and output with a chosen executable name.
 
 Happy coding! 🚀 
